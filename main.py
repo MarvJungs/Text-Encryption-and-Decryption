@@ -1,3 +1,6 @@
+#Text Encryption and Decryption Tool by Marvin Jung 
+#As an assignment for the class "Introduction to Linux and Python (DI4017)" at Halmstad University (HT2023/24)
+
 def encrypt(msg, n):
     encrypted_msg = ""
     for ch in msg:
